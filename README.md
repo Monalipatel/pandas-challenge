@@ -1,6 +1,7 @@
 # pandas-challenge
 ## Option 1: Heroes of Pymoli
 
+![](HeroesOfPymoli/Images/revenue-per-Fantasy.png)
 
 Final report includes:
 
