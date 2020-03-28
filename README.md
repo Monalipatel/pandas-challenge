@@ -1,54 +1,64 @@
 # pandas-challenge
+## Option 1: Heroes of Pymoli
+
+
 Final report includes:
 
-Player Count
+**Player Count**
 
-Total Number of Players
-Purchasing Analysis (Total)
+* Total Number of Players
 
-Number of Unique Items
-Average Purchase Price
-Total Number of Purchases
-Total Revenue
-Gender Demographics
+**Purchasing Analysis (Total)**
 
-Percentage and Count of Male Players
-Percentage and Count of Female Players
-Percentage and Count of Other / Non-Disclosed
-Purchasing Analysis (Gender)
+* Number of Unique Items
+* Average Purchase Price
+* Total Number of Purchases
+* Total Revenue
 
-The below each broken by gender
-Purchase Count
-Average Purchase Price
-Total Purchase Value
-Normalized Totals
-Age Demographics
+**Gender Demographics**
 
-The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
-Purchase Count
-Average Purchase Price
-Total Purchase Value
-Normalized Totals
-Top Spenders
+* Percentage and Count of Male Players
+* Percentage and Count of Female Players
+* Percentage and Count of Other / Non-Disclosed
 
-Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
-SN
-Purchase Count
-Average Purchase Price
-Total Purchase Value
-Most Popular Items
+**Purchasing Analysis (Gender)** 
 
-Identify the 5 most popular items by purchase count, then list (in a table):
-Item ID
-Item Name
-Purchase Count
-Item Price
-Total Purchase Value
-Most Profitable Items
+* The below each broken by gender
+  * Purchase Count
+  * Average Purchase Price
+  * Total Purchase Value
+  * Normalized Totals
 
-Identify the 5 most profitable items by total purchase value, then list (in a table):
-Item ID
-Item Name
-Purchase Count
-Item Price
-Total Purchase Value
+**Age Demographics**
+
+* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.) 
+  * Purchase Count
+  * Average Purchase Price
+  * Total Purchase Value
+  * Normalized Totals
+
+**Top Spenders**
+
+* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+  * SN
+  * Purchase Count
+  * Average Purchase Price
+  * Total Purchase Value
+
+**Most Popular Items**
+
+* Identify the 5 most popular items by purchase count, then list (in a table):
+  * Item ID
+  * Item Name
+  * Purchase Count
+  * Item Price
+  * Total Purchase Value
+
+**Most Profitable Items**
+
+* Identify the 5 most profitable items by total purchase value, then list (in a table):
+  * Item ID
+  * Item Name
+  * Purchase Count
+  * Item Price
+  * Total Purchase Value
