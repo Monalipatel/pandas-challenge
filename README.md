@@ -1,4 +1,7 @@
 # pandas-challenge
+
+What did I do in this project? I used the Pandas library in a jupyter notebook to obtain, clean, transform, analyze, visualize, and extract data-driven insights for a mock school district.
+
 ## Option 1: Heroes of Pymoli
 
 ![](HeroesOfPymoli/Images/revenue-per-Fantasy.png)
